@@ -9,9 +9,6 @@ We have uploaded two scripts: IE643_Projects_Codes.ipynb (which contains the cod
 The details of the codes are written in the scripts.
 
 Training and Inference details:
-Learning rate: VAE: 0.001, DDPM: 5 × 10^(−5), U-Net: 0.001
-Number of epochs: VAE: 700, DDPM: 1000, U-Net: 1000
-Optimizer: Adam optimizer for all models.
-Training and Inference batch size: 16 for all models.
+Learning rate: VAE: 0.001, DDPM: 5 × 10^(−5), U-Net: 0.001; Number of epochs: VAE: 700, DDPM: 1000, U-Net: 1000; Optimizer: Adam optimizer for all models; Training and Inference batch size: 16 for all models.
 
 ![image](https://github.com/user-attachments/assets/f95bb40d-93dd-481f-b712-ce1d9b5b4ef2)
